@@ -18,7 +18,7 @@
 <p align="center"> <img src="./src/assets/templates/home.png" /> </p>
 
 - Filtro
-- <p align="center"> <img src="./src/assets/templates/search.png" /> </p>
+<p align="center"> <img src="./src/assets/templates/search.png" /> </p>
 
 - Detalhes
-- <p align="center"> <img src="./src/assets/templates/details.png" /> </p>
+<p align="center"> <img src="./src/assets/templates/details.png" /> </p>
